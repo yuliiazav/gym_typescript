@@ -6,7 +6,7 @@
 }
 
  export type BenefitType = {
-  icon: JSX.Element;
+  icon: React.ReactNode;
   title: string;
   description: string;
 }
